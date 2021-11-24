@@ -25,7 +25,7 @@ Google (folder)
 
 ## Objektiv
 
-Lag google sin hovedside med HTML og CSS (https://github.com/UNblown/Google)
+Lag google sin hovedside med HTML og CSS (https://unblown.github.io/Google/)
 
 ### På slutten av prosjektet skal følgende emner dekkes;
 
