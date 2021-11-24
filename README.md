@@ -21,7 +21,7 @@ Google (folder)
 
 ## Forventet resultat
 
-!er på github, har ikke noe bilde, men har selve filene lastet opp
+!![image](https://user-images.githubusercontent.com/93644687/143192716-bf81f074-bb56-40bb-a130-cdcc6de88c1d.png)
 
 ## Objektiv
 
